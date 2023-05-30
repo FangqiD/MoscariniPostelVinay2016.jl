@@ -1,0 +1,13 @@
+name = "MoscariniPostelVinay2016"
+uuid = "bf565bb7-df9e-4520-ac8f-421378bdb873"
+authors = ["FangqiD <dingfangqi@hotmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
